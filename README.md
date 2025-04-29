@@ -1,9 +1,9 @@
 # CRAWLING-DATA-X-TWITTER-
 "Crawling" adalah proses mengakses dan membaca data dari situs web atau platform secara otomatis menggunakan program, bukan secara manual.
  Biasanya dilakukan untuk: 
-•	Mengumpulkan data (tweet, komentar, username, hashtag, dll.) 
-•	Menganalisis tren atau opini 
-•	Membuat dataset untuk machine learning atau riset
+ 1. Mengumpulkan data (tweet, komentar, username, hashtag, dll.) 
+ 2. Menganalisis tren atau opini 
+ 3. Membuat dataset untuk machine learning atau riset
 Crawling di X (Twitter) secara umum melibatkan:
 1.	API (Application Programming Interface) resmi 
 •	Contoh: X API (dulu Twitter API)
