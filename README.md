@@ -4,13 +4,14 @@
  1. Mengumpulkan data (tweet, komentar, username, hashtag, dll.) 
  2. Menganalisis tren atau opini 
  3. Membuat dataset untuk machine learning atau riset
+
 Crawling di X (Twitter) secara umum melibatkan:
-1.	API (Application Programming Interface) resmi 
+ 1. API (Application Programming Interface) resmi 
 •	Contoh: X API (dulu Twitter API)
 •	Perlu akses token dan autentikasi.
 •	Data lebih terstruktur dan legal.
-•	Bisa ambil data tweet, user, hashtag, dsb. 
-2.	Web scraping (lebih dibatasi) 
+•	Bisa ambil data tweet, user, hashtag, dsb.
+ 2. Web scraping (lebih dibatasi) 
 •	Mengambil data langsung dari tampilan web. 
 •	Tidak direkomendasikan karena bisa melanggar Terms of Service. 
 Contoh kegunaan crawling X:
